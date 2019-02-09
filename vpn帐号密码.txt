@@ -15,7 +15,7 @@ mysql：root  Machao_123
 小米帐号：1126092388
 
 VMware:
-激活秘钥：
+激活秘钥：xxxxxx
 VMware Workstation Pro 14 许可证序列号：
 FF590-2DX83-M81LZ-XDM7E-MKUT4（剩余次数：77556891）
 CG54H-D8D0H-H8DHY-C6X7X-N2KG6（剩余次数：99856243）
